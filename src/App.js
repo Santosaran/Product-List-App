@@ -99,7 +99,7 @@ const App =()=>{
             {name: 'Rain Jacket', price:'500'}
           ]
       })
-    }
+    } 
      
   return (
     <Router>
