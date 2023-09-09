@@ -69,7 +69,7 @@ const App =()=>{
     {name: 'T-Shirts', price:'22.3'},
     {name: 'Jacket', price:'55.99'},
     {name: 'Slim Fit', price:'15.99'}
-  ]
+  ] 
 
   const doodadprods=[
     {name: 'Gold Bracelet', price:'695'},
