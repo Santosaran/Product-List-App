@@ -10,7 +10,7 @@ import Doodads from './components/Doodads';
 import Profile from './components/Profile';
 import SkelDemoMat from './components/SkeletonDemoMaterial';
 import { ThemeProvider } from "@material-ui/styles"; 
-import {CssBaseline,Typography,createMuiTheme, Paper, FormControlLabel} from "@material-ui/core";
+import {CssBaseline,Typography,createMuiTheme, Paper, FormControlLabel} from "@material-ui/core"; 
 
 
 
