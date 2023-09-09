@@ -18,7 +18,7 @@ const themeObject ={
   palette: {
     type: "light"
   }
-}
+} 
 
 
 const useDarkMode=()=>{
