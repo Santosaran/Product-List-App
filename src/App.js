@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import {useState,useEffect} from 'react'; 
 import './App.css'; 
 import Navbar from './components/Navbar';
-import Home from './components/Home'; 
+import Home from './components/Home';
 import Widgets from './components/Widgets';
 import Wudgets from './components/Wudgets';
 import Doodads from './components/Doodads';
