@@ -1,7 +1,7 @@
 /* A bunch of stuff is overwritten when I included thea
 Link to bottstrap css in index.html */
 
-.product {
+.product { 
   display: inline-block;
   background-color: whitesmoke;
   margin: 10px;
